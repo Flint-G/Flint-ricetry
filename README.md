@@ -4,9 +4,9 @@ Lightweight hyprland dots catppuccin themed.
 
 ## Components
 
-- Widgets: Quickshell + Caelestia-shell  
+- Widgets: Quickshell
 - Window Manager: Hyprland  
-- Dots: Caelestia
+- Dots: [Caelestia](https://github.com/caelestia-dots/caelestia.git)
 
 ## Dependencies
 
